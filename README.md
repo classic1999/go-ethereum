@@ -2,8 +2,8 @@
 
 
 #### Repository Notice
-**PROJECT IS CURRENTLY LOCATED AT :
-[https://github.com/ethereumproject/go-ethereum](ethereumproject/go-ethereum)**
+**PROJECT IS CURRENTLY LOCATED AT 
+https://github.com/ethereumproject/go-ethereum**
 
 The **Ethereum Classic** project is set to be moved to this namespace, however until further notice,
 please use the above repository and the issues page on the above
